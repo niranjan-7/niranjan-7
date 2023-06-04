@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [sample](sample)
 
-- 📝 I regularly write articles on [sample](sample)
-
 - 💬 Ask me about **React, Next JS**
 
 - 📫 How to reach me **niranjan.k1505@gmail.com**
