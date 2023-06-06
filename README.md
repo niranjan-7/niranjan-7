@@ -5,24 +5,17 @@
 
 - 🌱 I’m currently learning **Cloud services**
 
-- 👨‍💻 All of my projects are available at [sample](sample)
-
 - 💬 Ask me about **React, Next JS**
 
 - 📫 How to reach me **niranjan.k1505@gmail.com**
 
-- 📄 Know about my experiences [sample](sample)
-
-
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/31rlvjertkh6pmrvkzx4qcilh4rm)
-
-
+<!-- - 📄 Know about my experiences [sample](sample) -->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niranjan-k-24b0b8203" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://icons8.com/icon/447/linkedin)" alt="niranjan-k-24b0b8203" height="30" width="40" /></a>
-<a href="https://instagram.com/niranjan.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan.__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niranjan-k-24b0b8203" target="blank">LinkedIn</a>
+<a href="https://instagram.com/niranjan.__" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
