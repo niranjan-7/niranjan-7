@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niranjan-k-24b0b8203" target="blank">LinkedIn</a>
+<a href="https://linkedin.com/in/niranjan-k-24b0b8203" target="blank">LinkedIn</a><br />
 <a href="https://instagram.com/niranjan.__" target="blank">Instagram</a>
 </p>
 
