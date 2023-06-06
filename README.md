@@ -13,6 +13,12 @@
 
 - 📄 Know about my experiences [sample](sample)
 
+
+[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/31rlvjertkh6pmrvkzx4qcilh4rm)
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/niranjan-k-24b0b8203" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://icons8.com/icon/447/linkedin)" alt="niranjan-k-24b0b8203" height="30" width="40" /></a>
