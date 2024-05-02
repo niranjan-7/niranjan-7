@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan-7&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan-7" /> </p>
 
-- 🌱 I’m currently exporaing **Machine Learning**
-
-- 💬 Ask me about **React, Next JS**
-
 - 📫 How to reach me **niranjan.k1505@gmail.com**
 
 <!-- - 📄 Know about my experiences [sample](sample) -->
